@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 reate 6 branches in your current repo called pat1 to pat6
 2. now   add 6 fiels to each branch  called d1 to d6
 3. now push the changes to origin
@@ -47,3 +48,16 @@ reate 6 branches in your current repo called pat1 to pat6
 11. Create a new  branch caled pat10 and pat11 and  download any chef cookbok from github into them 
 12. Fork any 6 github repos  for chef , ansible , puppet and terrraform and clone  them in your git hub repo
 13. now  delete 4 files in each  cloned repo locally and push the changes back to guthub
+=======
+t add d1 d2 d3 d4 d5 d6
+git commit -m"commit changes" -a
+git push -u origin mastergit add d1 d2 d3 d4 d5 d6
+git commit -m"commit changes" -a
+git push -u origin mastergit add d1 d2 d3 d4 d5 d6
+git commit -m"commit changes" -a
+git push -u origin mastergit add d1 d2 d3 d4 d5 d6
+git commit -m"commit changes" -a
+git push -u origin mastergit add d1 d2 d3 d4 d5 d6
+git commit -m"commit changes" -a
+git push -u origin master
+>>>>>>> pat3
