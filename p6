@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 t add d1 d2 d3 d4 d5 d6
 git commit -m"commit changes" -a
 git push -u origin mastergit add d1 d2 d3 d4 d5 d6
@@ -6,4 +7,15 @@ git push -u origin mastergit add d1 d2 d3 d4 d5 d6
 git commit -m"commit changes" -a
 git push -u origin mastergit add d1 d2 d3 d4 d5 d6
 git commit -m"commit changes" -a
+git push -u origin mastergit add d1 d2 d3 d4 d5 d6
+git commit -m"commit changes" -a
+git push -u origin mastergit add d1 d2 d3 d4 d5 d6
+git commit -m"commit changes" -a
 git push -u origin master
+=======
+dding four line
+Adding four line
+Adding four line
+Adding four line
+Adding four line
+>>>>>>> pat6
